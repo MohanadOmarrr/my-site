@@ -1,0 +1,1 @@
+/my-site/Website -type d -exec chmod 755 {} \; /my-site/Website -type f -exec chmod 644 {} \;
